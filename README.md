@@ -69,9 +69,9 @@ Each visual is paired with a written story explaining its insight:
 - Recommendation: Focus on best-performing areas and streamline weaker zones.
 
 ## *Files Included*
-- Superstore_Storyboard.pbix: Power BI dashboard file (if uploaded)
-- Screenshots/: Folder with all storyboard visuals
-- Storyboard_PDF.pdf: Exported PDF with multiple-page insights
+
+- Screenshots: Folder with all storyboard visuals
+-Data_Visualization_Task.pdf: Exported PDF with multiple-page insights
 - README.md: Project explanation
 
 ## *Conclusion*
