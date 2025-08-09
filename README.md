@@ -74,6 +74,11 @@ Each visual is paired with a written story explaining its insight:
 -Data_Visualization_Task.pdf: Exported PDF with multiple-page insights
 - README.md: Project explanation
 
+## 🚀 Getting Started
+1. Download the dataset from Kaggle or use `Cleaned_data.csv` provided here.
+2. Open `Data_Cleaning_Pandas.ipynb` in Jupyter Notebook to view the cleaning process.
+3. Open `Retail_Profitability_Dashboard.pbix` in Power BI to explore the dashboard.
+
 ## *Conclusion*
 This project demonstrates how *data visualization + storytelling* can uncover patterns and guide strategic decisions. Power BI’s interactivity makes the insights clearer and actionable for business teams.
 
